@@ -1,0 +1,15 @@
+ctrl+tab - list all the tabs that are opened. Hit tabs to go to next tab.
+ctrl+shift+tab - if any tab is accidentaly closed.
+ctrl+p - to open a tab. If one file is already opened, press ctrl and select the file then it will be opened in split mode.
+ctrl + enter also works from sidebar.
+ctrl+delete - to delete opened file
+ctrl+o - to open the explorer
+ctrl++ - to zoom in 
+ctrl+- - to zoom out
+ctrl+arrow - to move along the line faster
+ctrl+alt+arrowdown - to minimize
+ctrl+alt+arrowup - maximize
+ctrl+enter - to go new line from any point
+ctrl+shift+\ - to go to matching bracket to and fro
+hold alt or option to put multiple cursors at different places
+cmd+shift+o - to find functions or types in a file
